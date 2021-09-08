@@ -9,7 +9,7 @@ function App() {
       <div className="container">
         <div className="card login-card">
           <div className="row">
-            <div class="col-md-5 d-flex flex-column" id="seccion2">
+            <div class="col-md-5 d-flex flex-column" id="seccion">
               <Search />
               <Weatherhero />
             </div>

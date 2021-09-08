@@ -8,7 +8,7 @@ function SectionData() {
         <div class="col-sm-6">
           <div class="servive-block servive-block-u">
             <p class=" fs-5">Wind Status</p>
-            <h2 class="fs-1 pb-3">0mph</h2>
+            <h2 class="fs-1 pb-3">0 mph</h2>
           </div>
         </div>
         <div class="col-sm-6">

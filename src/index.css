@@ -8,11 +8,11 @@ body {
   min-height: 100vh;
 }
 
-#seccion2 {
+#seccion {
   background-color: #1e213a;
   color: white;
   background-position: center;
-  /* background-image: url(/public/Cloud-background2.png); */
+  background-image: url(../src/Img/Cloud-background2.png);
   background-repeat: no-repeat;
   z-index: 0;
 }

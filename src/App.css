@@ -8,15 +8,6 @@
   padding: 85px 60px 60px;
 }
 
-#seccion2 {
-  background-color: #1e213a;
-  color: white;
-  background-position: center;
-  /* background-image: url(Img/Cloud-background2.png); */
-  background-repeat: no-repeat;
-  z-index: 0;
-}
-
 .SecondSection {
   background-color: #100e1d;
 }

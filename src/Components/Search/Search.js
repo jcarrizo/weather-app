@@ -29,7 +29,7 @@ function Search() {
             id="inputLocation"
             required
           />
-          <button type="button" class="btn btn-outline-light" onclick="SearchLocation()">
+          <button type="button" class="btn btn-outline-light mt-3" onclick="SearchLocation()">
             Search
           </button>
         </div>
